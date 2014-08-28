@@ -1,5 +1,5 @@
 'Programa que simula  el tiempo que le toma entrar a una tienda y ser atendidos'
-'hecho por : Erick Hernandez 13197 y Ma. Isabel Fernandez 13024'
+'hecho por : Erick Hernandez 13197 Ma. Isabel Fernandez 13024 y Andres Lainfiesta	  Carnet: 13072'
 import random
 import simpy
 
